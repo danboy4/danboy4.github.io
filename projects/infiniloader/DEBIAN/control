@@ -1,0 +1,9 @@
+Package: com.danboy4.infiniloader
+Name: Infiniloader
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: My first Winterboard theme that changes the loading gif
+Maintainer: danboy4 <danboy04@gmail.com>
+Author: danboy4 <danboy04@gmail.com>
+Section: Themes (Springboard)
